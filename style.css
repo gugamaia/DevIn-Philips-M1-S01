@@ -64,7 +64,7 @@ div img {
   }
   
   .navbar a:hover {
-    background: #ddd;
+    transition: 1000ms;;
+    background: rgb(240, 225, 94);
     color: black;
   }
-  
