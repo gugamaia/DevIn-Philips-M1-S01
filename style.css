@@ -1,5 +1,6 @@
 * {
     background-color: green;
+    box-sizing: border-box;
 }
 
 h1 {
@@ -27,3 +28,20 @@ button img {
     width: 100%;
     border-radius: 14px;
 }
+
+div img {
+    height: 60%;
+    width: 60%;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
