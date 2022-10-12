@@ -7,6 +7,9 @@ h1 {
     font-size: 20px;
     color: silver;
     text-align: center;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7n_PPBkS-Ww-uY9t9M6orSV-0LWipT6Syeg&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 p {
